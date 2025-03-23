@@ -7,3 +7,7 @@ Program w Pascalu
 - należy dodać parametry do procedury losującej, które będą określać zakres losowania: od, do, ile liczb
 - dodatkowo napisane 5 testów jednostkowych testujących procedury
 - skrypt w bashu do uruchomiania aplikacji w pascalu via docker
+
+---
+
+Online compiler: https://www.onlinegdb.com/online_pascal_compiler
