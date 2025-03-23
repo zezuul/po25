@@ -11,3 +11,4 @@ Program w Pascalu
 ---
 
 Online compiler: https://www.onlinegdb.com/online_pascal_compiler
+Pascal compiler: https://hub.docker.com/r/freepascal/fpc

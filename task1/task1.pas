@@ -1,11 +1,11 @@
-program task1
+program task1;
 uses crt, sysutils;
 
 type
     ArrayOfNumbers = array of Integer;
 
 // procedura generujaca losowe liczby
-procedure GenerateRandomNumbers(var arr: TIntArray; fromVal, toVal, count: Integer);
+procedure GenerateRandomNumbers(var arr: ArrayOfNumbers; fromVal, toVal, count: Integer);
 var
     i: Integer;
 begin
@@ -45,13 +45,20 @@ procedure TestRandomNumberGeneration;
 var
     arr: ArrayOfNumbers;
     i: Integer;
+    r: boolean;
 begin
     GenerateRandomNumbers(arr, 10, 20, 50);
+    r := true;
     for i := 0 to High(arr) do
         if (arr[i] < 10) or (arr[i] > 20) then
-            Writeln('TestRandomNumberGeneration: FAILED')
+            r := false
         else
-            Writeln('TestRandomNumberGeneration: PASSED');
+            Continue;
+    
+    if (r) then
+        Writeln('TestRandomNumberGeneration: PASSED')
+    else
+        Writeln('TestRandomNumberGeneration: FAILED');
 end;
 
 // t2: sprawdz sortowanie dla posortowanej tablicy
@@ -75,11 +82,9 @@ begin
     arr := [5, 4, 3, 2, 1];
     BubbleSort(arr);
     if (arr[0] = 1) and (arr[High(arr)] = 5) then
-        Continue;
+        Writeln('TestReverseSorted: PASSED')
     else
         Writeln('TestReverseSorted: FAILED');
-        Break;
-    Writeln('TestReverseSorted: PASSED')
 end;
 
 // t4: sprawdz sortowanie dla tab losowo posortowanej
@@ -117,7 +122,6 @@ var
 begin
     clrscr;
 
-    // Generowanie i sortowanie losowych liczb
     GenerateRandomNumbers(arr, 0, 100, 50);
     Writeln('Generated array:');
     PrintArray(arr);
@@ -126,12 +130,9 @@ begin
     Writeln('Sorted array:');
     PrintArray(arr);
 
-    // Uruchamianie testów jednostkowych
     TestRandomNumberGeneration;
     TestAlreadySorted;
     TestReverseSorted;
     TestRandomArray;
     TestEmptyArray;
-
-    Readln;
 end.
