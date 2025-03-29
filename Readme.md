@@ -33,3 +33,20 @@ losowania: od, do, ile** [Link do commita 1](https://github.com/zezuul/po25/comm
 
 ✅ done
 ❌ not done
+🚧 WIP
+
+---
+
+# Zadanie : template
+
+🚧 **3.0 wym1** [Link do commita 1]()
+
+🚧 **3.5 wym2** [Link do commita 1]()
+
+🚧 **4.0 wym3** [Link do commita 2]()
+
+🚧 **4.5 wym4** [Link do commita 2]()
+
+🚧 **5.0 wym5** [Link do commita 2]()
+
+**Kod:** [folder]()
