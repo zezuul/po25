@@ -29,6 +29,18 @@ losowania: od, do, ile** [Link do commita 1](https://github.com/zezuul/po25/comm
 
 **Kod:** [folder](https://github.com/zezuul/po25/tree/main/task2)
 
+# Zadanie 3: Wzorce kreacyjne
+
+🚧 **3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin, Spring Boot** [Link do commita 1]()
+
+🚧 **3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager** [Link do commita 1]()
+
+🚧 **4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika** [Link do commita 2]()
+
+🚧 **4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired** [Link do commita 2]()
+
+🚧 **5.0 Obok wersji Eager do wyboru powinna być wersja Singletona w wersji lazy** [Link do commita 2]()
+
 ---
 
 ✅ done
