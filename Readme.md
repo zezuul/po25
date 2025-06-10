@@ -56,6 +56,21 @@ losowania: od, do, ile** [Link do commita 1](https://github.com/zezuul/po25/comm
 **Kod:** [folder](https://github.com/zezuul/po25/tree/main/task4)
 **Nagranie:** [demo](https://github.com/zezuul/po25/blob/main/demos/task4.mp4)
 
+# Zadanie 5 Wzorce behawioralne
+
+✅ 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej [Link do commita](https://github.com/zezuul/po25/commit/420d40973b39da3eccd95f2764e859d85c9ab601)
+
+✅ 3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing [Link do commita](https://github.com/zezuul/po25/commit/420d40973b39da3eccd95f2764e859d85c9ab601)
+
+❌ 4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks
+
+❌ 4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose
+
+❌ 5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS
+
+**Kod:** [folder](https://github.com/zezuul/po25/tree/main/task5)
+**Nagranie:** [demo](https://github.com/zezuul/po25/blob/main/demos/task5.mp4)
+
 ---
 
 ✅ done
