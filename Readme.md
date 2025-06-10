@@ -17,15 +17,15 @@ losowania: od, do, ile** [Link do commita 1](https://github.com/zezuul/po25/comm
 
 # Zadanie 2 Wzorce architektury: Symfony PHP
 
-✅ **3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD** [Link do commita 1]()
+🚧 **3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD** [Link do commita 1]()
 
-✅ **3.5 Należy stworzyć skrypty do testów endpointów via curl** [Link do commita 1]()
+🚧 **3.5 Należy stworzyć skrypty do testów endpointów via curl** [Link do commita 1]()
 
-✅ **4.0 Należy stworzyć dwa dodatkowe kontrolery wraz z modelami** [Link do commita 1]()
+🚧 **4.0 Należy stworzyć dwa dodatkowe kontrolery wraz z modelami** [Link do commita 1]()
 
-✅ **4.5 Należy stworzyć widoki do wszystkich kontrolerów** [Link do commita 1]()
+🚧 **4.5 Należy stworzyć widoki do wszystkich kontrolerów** [Link do commita 1]()
 
-✅ **5.0 Stworzenie panelu administracyjnego z mockowanym logowaniem** [Link do commita]()
+🚧 **5.0 Stworzenie panelu administracyjnego z mockowanym logowaniem** [Link do commita]()
 
 **Kod:** [folder](https://github.com/zezuul/po25/tree/main/task2)
 
@@ -40,6 +40,21 @@ losowania: od, do, ile** [Link do commita 1](https://github.com/zezuul/po25/comm
 🚧 **4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired** [Link do commita 2]()
 
 🚧 **5.0 Obok wersji Eager do wyboru powinna być wersja Singletona w wersji lazy** [Link do commita 2]()
+
+# Zadanie 4: Wzorce strukturalne Echo (Go)
+
+✅ **3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Pogody** [Link do commita](https://github.com/zezuul/po25/commit/b0bf822672588f3600a867b2fb92ce746efb740d)
+
+✅ **3.5 Należy stworzyć model Pogoda (lub Giełda) wykorzystując gorm, a dane załadować z listy przy uruchomieniu** [Link do commita](https://github.com/zezuul/po25/commit/b0bf822672588f3600a867b2fb92ce746efb740d)
+
+✅ **4.0 Należy stworzyć klasę proxy, która pobierze dane z serwisu zewnętrznego podczas zapytania do naszego kontrolera** [Link do commita](https://github.com/zezuul/po25/commit/b0bf822672588f3600a867b2fb92ce746efb740d)
+
+❌ **4.5 wym4**
+
+❌ **5.0 wym5**
+
+**Kod:** [folder](https://github.com/zezuul/po25/tree/main/task4)
+**Nagranie:** [demo](https://github.com/zezuul/po25/blob/main/demos/task4.mp4)
 
 ---
 
