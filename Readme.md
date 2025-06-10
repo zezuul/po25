@@ -71,6 +71,20 @@ losowania: od, do, ile** [Link do commita 1](https://github.com/zezuul/po25/comm
 **Kod:** [folder](https://github.com/zezuul/po25/tree/main/task5)
 **Nagranie:** [demo](https://github.com/zezuul/po25/blob/main/demos/task5.mp4)
 
+# Zadanie 6: Zapaszki Sonar
+
+✅ **3.0 Należy dodać eslint w hookach gita**
+
+❌ **3.5 wym2**
+
+❌ **4.0 wym3**
+
+❌ **4.5 wym4**
+
+❌ **5.0 wym5**
+
+**Linki:** [rozwiązanie](https://github.com/zezuul/po25/blob/main/task6)
+
 ---
 
 ✅ done

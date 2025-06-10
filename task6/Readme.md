@@ -1,3 +1,8 @@
+SonarQubeCloud code alaysis [here](https://sonarcloud.io/summary/overall?id=zezuul_ebiz_frontend&branch=main)
+Sonar workflow [here](https://github.com/zezuul/ebiz_frontend/actions/runs/15559042054/workflow)
+
+---
+
 Zadanie 6 Zapaszki
 Sonar (JS)
 W ramach zadania 6 należy zredukować błędy typu: Bugs, Security
