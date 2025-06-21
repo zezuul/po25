@@ -17,29 +17,29 @@ losowania: od, do, ile** [Link do commita 1](https://github.com/zezuul/po25/comm
 
 # Zadanie 2 Wzorce architektury: Symfony PHP
 
-🚧 **3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD** [Link do commita 1]()
+✅ **3.0 Należy stworzyć jeden model z kontrolerem z produktami, zgodnie z CRUD** [Link do commita 1]()
 
-🚧 **3.5 Należy stworzyć skrypty do testów endpointów via curl** [Link do commita 1]()
+❌ **3.5 Należy stworzyć skrypty do testów endpointów via curl**
 
-🚧 **4.0 Należy stworzyć dwa dodatkowe kontrolery wraz z modelami** [Link do commita 1]()
+❌ **4.0 Należy stworzyć dwa dodatkowe kontrolery wraz z modelami**
 
-🚧 **4.5 Należy stworzyć widoki do wszystkich kontrolerów** [Link do commita 1]()
+❌ **4.5 Należy stworzyć widoki do wszystkich kontrolerów**
 
-🚧 **5.0 Stworzenie panelu administracyjnego z mockowanym logowaniem** [Link do commita]()
+❌ **5.0 Stworzenie panelu administracyjnego z mockowanym logowaniem**
 
 **Kod:** [folder](https://github.com/zezuul/po25/tree/main/task2)
 
 # Zadanie 3: Wzorce kreacyjne
 
-🚧 **3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin, Spring Boot** [Link do commita 1]()
+✅ **3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z listy na endpoint’cie w formacie JSON - Kotlin, Spring Boot** [Link do commita 1]()
 
-🚧 **3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager** [Link do commita 1]()
+❌ **3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w formie eager**
 
-🚧 **4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika** [Link do commita 2]()
+❌ **4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika**
 
-🚧 **4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired** [Link do commita 2]()
+❌ **4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired**
 
-🚧 **5.0 Obok wersji Eager do wyboru powinna być wersja Singletona w wersji lazy** [Link do commita 2]()
+❌ **5.0 Obok wersji Eager do wyboru powinna być wersja Singletona w wersji lazy**
 
 # Zadanie 4: Wzorce strukturalne Echo (Go)
 
@@ -84,6 +84,48 @@ losowania: od, do, ile** [Link do commita 1](https://github.com/zezuul/po25/comm
 ❌ **5.0 wym5**
 
 **Linki:** [rozwiązanie](https://github.com/zezuul/po25/blob/main/task6)
+
+# Zadanie 7: Antywzorce Vapor (Swift)
+
+✅ **3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w ORM Fluent** [Link do commita 1]()
+
+❌ **3.5 wym2**
+
+❌ **4.0 wym3**
+
+❌ **4.5 wym4**
+
+❌ **5.0 wym5**
+
+**Kod:** [folder]()
+
+# Zadanie 8: Testy
+
+✅ **3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w ORM Fluent** [Link do commita 1]()
+
+❌ **3.5 wym2**
+
+❌ **4.0 wym3**
+
+❌ **4.5 wym4**
+
+❌ **5.0 wym5**
+
+**Kod:** [folder]()
+
+# Zadanie 9: Mobile first Android
+
+✅ **3.0 stworzyć listę kategorii oraz produktów** [Link do commita 1]()
+
+❌ **3.5 wym2** [Link do commita 1]()
+
+❌ **4.0 wym3** [Link do commita 2]()
+
+❌ **4.5 wym4** [Link do commita 2]()
+
+❌ **5.0 wym5** [Link do commita 2]()
+
+**Kod:** [folder]()
 
 ---
 
